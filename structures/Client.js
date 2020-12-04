@@ -20,7 +20,7 @@ class Bot extends Client {
             }
         ], {
         destroy: () => ``,
-        newSong: (song) => new MessageEmbed().setColor("RANDOM").setDescription(`**Şimdi Oynatılıyor:** \n [${song.title}](${song.uri})`)
+        newSong: (song) => new MessageEmbed().setColor("RANDOM").setDescription(`**Şimdi Oynatılıyor:** \n [${song.title}](${song.uri})\n**Süre** ${moment(song.length)}`)
 
         });
        
