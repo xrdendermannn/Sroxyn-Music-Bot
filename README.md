@@ -15,5 +15,5 @@
 ## NOT
 **İlk Önce Lavalink serverini Sonra botu açmalısınız yoksa hata alırsınız**
 
-## Bu Kod SroxynArtz#0001 Tarafından Lavalink kullanılarak yapılmıştır...
+## Bu Kod SroxynArtz#0001 Tarafından [Description Technique](https://discord.gg/4j9gU6nQ4S) Sunucus İçin, Lavalink kullanılarak yapılmıştır...
 
