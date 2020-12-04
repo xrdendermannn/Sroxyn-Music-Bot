@@ -1,0 +1,28 @@
+{
+  "name": "lavalink-deneme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.4.1",
+    "lol-champions": "^10.23.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "puppeteer": "^5.5.0",
+    "request": "^2.88.2",
+    "salvage-music": "^1.0.0",
+    "shoukaku": "^1.5.2",
+    "solenolyrics": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
